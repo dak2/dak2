@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm dak2</h1>
 <h3 align="center">A software engineer in Japan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dak2&label=Profile%20views&color=0e75b6&style=flat" alt="dak2" /> </p>
-
 - 🔭 I’m currently working on **@starx-inc**
 
 - 📝 I regularly write articles on [https://kdevlog.com/](https://kdevlog.com/)
