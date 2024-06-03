@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm dak2</h1>
 <h3 align="center">A software engineer in Japan.</h3>
 
-- 🔭 I’m currently working on **@starx-inc**
-
 - 📝 I regularly write articles on [https://kdevlog.com/](https://kdevlog.com/)
 
 <h3 align="left">Connect with me:</h3>
